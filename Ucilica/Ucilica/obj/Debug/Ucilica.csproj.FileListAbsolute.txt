@@ -1,0 +1,39 @@
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.AssemblyReference.cache
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.SuggestedBindingRedirects.cache
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Admin.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Dodaj.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Form1.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Kraj.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Pitanje.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Properties.Resources.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Razred.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Register.resources
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.GenerateResource.cache
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\bin\Debug\login.accdb
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\bin\Debug\Ucilica.exe.config
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\bin\Debug\Ucilica.exe
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\bin\Debug\Ucilica.pdb
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.exe
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.pdb
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Bodovi.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\bin\Debug\login.accdb
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\bin\Debug\Ucilica.exe.config
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\bin\Debug\Ucilica.exe
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\bin\Debug\Ucilica.pdb
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.AssemblyReference.cache
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Admin.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Bodovi.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Dodaj.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Form1.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Kraj.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Pitanje.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Profil.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Properties.Resources.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Razred.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.Register.resources
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.GenerateResource.cache
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.csproj.CoreCompileInputs.cache
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.exe
+C:\Users\avedo\Downloads\ucilica-main (4)\ucilica-main\Ucilica\Ucilica\obj\Debug\Ucilica.pdb
+C:\Users\john\source\repos\jandra1\ucilica\Ucilica\Ucilica\obj\Debug\Ucilica.Profil.resources
